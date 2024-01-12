@@ -216,7 +216,7 @@ nav > ul > li > a:hover::before {
         justify-content: center;
         align-items: center;
         background: rgb(36, 36, 36);
-        /* transition: top 1s ease 0s; */
+        transition: top 1s ease 0s;
         display: none;
       }
 

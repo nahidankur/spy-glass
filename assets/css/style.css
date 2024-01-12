@@ -215,6 +215,7 @@ nav > ul > li > a:hover::before {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        text-align: center;
         background: rgb(36, 36, 36);
         transition: top 1s ease 0s;
         display: none;
@@ -222,6 +223,7 @@ nav > ul > li > a:hover::before {
 
       .mainMenu > li {
         padding-bottom: 20px;
+        margin-left: 0px;
       }
 
       .mainMenu li a {
